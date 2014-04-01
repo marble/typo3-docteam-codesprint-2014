@@ -1,0 +1,10 @@
+# Settings.yml
+---
+conf.py:
+
+  copyright: 2013 - 2099
+  project: DocTeam Codesprint 2014
+  version: 1.0
+  release: 1.0.0
+
+...
