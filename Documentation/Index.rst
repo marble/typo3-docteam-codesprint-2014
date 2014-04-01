@@ -27,7 +27,17 @@ Wiki
 
 Github
 ------
-- https://github.com/marble/typo3-docteam-codesprint-2014
+
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :repo: Repository
+   :rendered: Online
+
+ - :repo: https://github.com/marble/typo3-docteam-codesprint-2014
+   :rendered: `DocTeam Codesprint 2014 <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`__
+
+..
 - https://github.com/marble/typo3-docs-typo3-org-resources
 - https://github.com/marble/typo3-resttools-t3sphinx
 - https://github.com/marble/typo3-manage-github-repositories
