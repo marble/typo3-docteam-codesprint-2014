@@ -36,7 +36,7 @@ Github
 
  - :repo: https://github.com/marble/typo3-docteam-codesprint-2014
    :rendered: `DocTeam Codesprint 2014 <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`__
-
+       `DocTeam Codesprint 2014 <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`_
 ..
 - https://github.com/marble/typo3-docs-typo3-org-resources
 - https://github.com/marble/typo3-resttools-t3sphinx
