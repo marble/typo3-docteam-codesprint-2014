@@ -26,37 +26,42 @@ Material's Matrix
  - :title:	Title
    :type: 	Type
    :repo: 	Repository
+   :clone:  Clone
+   :who:    Who
    :remark:	Remark
 
  - :title:	`DocTeam Codesprint 2014 <http://wiki.typo3.org/DocTeam/Code_Sprint_2014>`__
-   :type: 	wiki page
+   :clone:  `clone <http://docs.typo3.org/~mbless/github.com/marble/typo3-docteam-codesprint-2014.git/>`__
+   :type: 	wiki pages
 
  - :title:	`DocTeam Codesprint 2014 <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`__
-   :type:	marble
+   :who:	marble
+   :type:   ReST documentation
    :repo:	`Github <https://github.com/marble/typo3-docteam-codesprint-2014>`__
 
  - :title:	`The resources of docs.typo3.org <>`__
    :type: 	tools
    :repo: 	`Github <https://github.com/marble/typo3-docs-typo3-org-resources>`__
-   :remark:
 
  - :title:  t3sphinx - Python package for Sphinx
    :type:   tools - current work on a new version
+   :who:    marble
    :repo:   `Github <https://github.com/marble/typo3-resttools-t3sphinx>`__
    :remark: WIP - refactoring the current package
 
  - :title:  `Manage Github Repositories`
+   :who:    marble
+   :type:   tools
    :repo:   `Github <https://github.com/marble/typo3-manage-github-repositories>`__
 
  - :title:  TYPO3 docs ter automation
-   :type:   xperseguers
+   :who:    xperseguers
+   :type:   tools
    :repo:   `Github <https://github.com/xperseguers/TYPO3.docs.ter-automation>`__
-   :remark:
 
  - :title:  TYPO3 docs rst primer
-   :type:   xperseguers
+   :who:    xperseguers
    :repo:   `Github <https://github.com/xperseguers/TYPO3.docs.rst-primer>`__
-   :remark:
 
  - :title:  RestTools.git
    :type:   tools
@@ -68,6 +73,7 @@ Material's Matrix
 
  - :title:  Get The Docs
    :type:   tools
+   :who:    fudriot
    :repo:   `git.typo3.org <https://git.typo3.org/Documentation/GetTheDocs.git>`__
 
 
