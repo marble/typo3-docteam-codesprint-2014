@@ -8,15 +8,15 @@ echo.
 :echo.
 
 echo Building HTML version in build/html ...
-call make.bat t3html
+call make.bat html
 echo.
 echo.
 
 echo Starting build/html/Index.html in browser ...
-start build\t3html\Index.html
+start build\html\Index.html
 echo.
 echo.
 
 
 :echo Finished.
-:pause
+pause
