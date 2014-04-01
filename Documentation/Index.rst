@@ -17,24 +17,19 @@ DocTeam Codesprint 2014
 
 
 
+Material's Matrix
+=================
 
-Links
-=====
-
-Wiki
-----
-- http://wiki.typo3.org/DocTeam/Code_Sprint_2014
-
-Github
-------
-
-.. t3-field-list-table:: Documentation Matrix
+.. t3-field-list-table:: Matrix of Materials
  :header-rows: 1
 
  - :title:	Title
-   :type: 	Wiki
+   :type: 	Type
    :repo: 	Repository
    :remark:	Remark
+
+ - :title:	`DocTeam Codesprint 2014 <http://wiki.typo3.org/DocTeam/Code_Sprint_2014>`__
+   :type: 	wiki page
 
  - :title:	`DocTeam Codesprint 2014 <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`__
    :type:	marble
