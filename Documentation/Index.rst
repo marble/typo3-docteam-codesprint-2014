@@ -28,28 +28,52 @@ Wiki
 Github
 ------
 
-.. t3-field-list-table::
+.. t3-field-list-table:: Documentation Matrix
  :header-rows: 1
 
- - :repo: Repository
-   :rendered: Online
+ - :title:	Title
+   :type: 	Wiki
+   :repo: 	Repository
+   :remark:	Remark
 
- - :repo: https://github.com/marble/typo3-docteam-codesprint-2014
-   :rendered: `DocTeam Codesprint 2014 <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`__
-       `DocTeam Codesprint 2014 <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`_
-..
-- https://github.com/marble/typo3-docs-typo3-org-resources
-- https://github.com/marble/typo3-resttools-t3sphinx
-- https://github.com/marble/typo3-manage-github-repositories
-- https://github.com/xperseguers/TYPO3.docs.ter-automation
-- https://github.com/xperseguers/TYPO3.docs.rst-primer
+ - :title:	`DocTeam Codesprint 2014 <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`__
+   :type:	marble
+   :repo:	`Github <https://github.com/marble/typo3-docteam-codesprint-2014>`__
 
-git.typo3.org
--------------
-- https://git.typo3.org/Documentation/RestTools.git
-- https://git.typo3.org/Documentation/ApiTypo3Org.git
-- https://git.typo3.org/Documentation/GetTheDocs.git
+ - :title:	`The resources of docs.typo3.org <>`__
+   :type: 	tools
+   :repo: 	`Github <https://github.com/marble/typo3-docs-typo3-org-resources>`__
+   :remark:
 
+ - :title:  t3sphinx - Python package for Sphinx
+   :type:   tools - current work on a new version
+   :repo:   `Github <https://github.com/marble/typo3-resttools-t3sphinx>`__
+   :remark: WIP - refactoring the current package
+
+ - :title:  `Manage Github Repositories`
+   :repo:   `Github <https://github.com/marble/typo3-manage-github-repositories>`__
+
+ - :title:  TYPO3 docs ter automation
+   :type:   xperseguers
+   :repo:   `Github <https://github.com/xperseguers/TYPO3.docs.ter-automation>`__
+   :remark:
+
+ - :title:  TYPO3 docs rst primer
+   :type:   xperseguers
+   :repo:   `Github <https://github.com/xperseguers/TYPO3.docs.rst-primer>`__
+   :remark:
+
+ - :title:  RestTools.git
+   :type:   tools
+   :repo:   `git.typo3.org <https://git.typo3.org/Documentation/RestTools.git>`__
+
+ - :title:  ApiTypo3Org.git
+   :type:   tools - ?
+   :repo:   `git.typo3.org <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
+
+ - :title:  Get The Docs
+   :type:   tools
+   :repo:   `git.typo3.org <https://git.typo3.org/Documentation/GetTheDocs.git>`__
 
 
 
