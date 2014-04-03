@@ -17,16 +17,18 @@ DocTeam Codesprint 2014
 
 
 
-Material's Matrix
-=================
 
-.. t3-field-list-table:: Matrix of Materials
+Matrix of Doc Things
+====================
+
+.. t3-field-list-table:: Matrix of Doc Things
  :header-rows: 1
 
  - :line: 	line
    :title:  title
    :type:   type
    :docs:   docs
+   :path:   path
    :repo:   repo
    :clone:  clone
    :make:   make
@@ -41,7 +43,7 @@ Material's Matrix
 
  - :line: 	2
    :title:  DocTeam Codesprint 2014
-   :type:   ReST documentation
+   :type:   ReST
    :docs:   `docs   <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`__
    :repo:   `github <https://github.com/marble/typo3-docteam-codesprint-2014>`__
    :clone:  `clone  <http://docs.typo3.org/~mbless/github.com/marble/typo3-docteam-codesprint-2014.git/>`__
@@ -69,30 +71,56 @@ Material's Matrix
 
  - :line: 	5
    :title:  TYPO3 docs ter automation
-   :who:    xperseguers
    :type:   tools
+   :docs:   ref:`docs <inventory-render-doc>`
+   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/RENDER-DOC/`__
    :repo:   `github <https://github.com/xperseguers/TYPO3.docs.ter-automation>`__
+   :clone:  `clone <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.ter-automation/>`__
+   :make:
+   :forge:
+   :who:    xperseguers
+   :remark:
 
  - :line: 	6
    :title:  TYPO3 docs rst primer
-   :who:    xperseguers
+   :type:   docs
+   :docs:   `docs <http://docs.typo3.org//typo3cms/drafts/github/xperseguers/RstPrimer/>`__
+   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/`__
    :repo:   `github <https://github.com/xperseguers/TYPO3.docs.rst-primer>`__
+   :clone:  `clone <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/>`__
+   :make:   `make <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git.make/>`__
+   :forge:
+   :who:    xperseguers
+   :remark:
 
  - :line: 	7
    :title:  RestTools.git
    :type:   tools
+   :docs:
+   :path:
    :repo:   `t3repo <https://git.typo3.org/Documentation/RestTools.git>`__
+   :clone:  `clone <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/RestTools.git/>`__
+   :make:
+   :forge:  `forge <http://forge.typo3.org/projects/tools-rest>`__
+   :who:    team
+   :remark:
 
  - :line: 	8
    :title:  ApiTypo3Org.git
-   :type:   tools - ?
+   :type:   ?
    :repo:   `t3repo <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
 
  - :line: 	9
    :title:  Get The Docs
    :type:   tools
-   :who:    fudriot
+   :docs:
+   :path:
    :repo:   `t3repo <https://git.typo3.org/Documentation/GetTheDocs.git>`__
+   :clone:  `clone <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/RestTools.git/>`__
+   :make:
+   :forge:  `forge <http://forge.typo3.org/projects/tools-rest>`__
+   :who:    fudriot
+   :remark:
 
  - :line: 	10
    :title:	restdoc
@@ -119,6 +147,58 @@ Material's Matrix
    :make:
    :remark: upcoming new
    :who:    marble
+
+ - :line: 	13
+   :title:  RENDER-DOC
+   :type:   tools
+   :docs:   ref:`docs <inventory-render-doc>`
+   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/RENDER-DOC/`__
+   :repo:
+   :clone:
+   :make:
+   :forge:
+   :who:    xperseguers
+   :remark:
+
+
+ - :line: 	14
+   :title:  `GetTheDocs <http://docs.typo3.org/getthedocs/>`__
+   :type:   application
+   :docs:
+   :path:   render@ /home /render
+   :repo:   `t3repo <https://git.typo3.org/Documentation/GetTheDocs.git>`__
+   :clone:
+   :make:
+   :forge:  `forge <http://forge.typo3.org/projects/get-the-docs>`__
+   :who:    fudriot
+   :remark:
+
+ - :line: 	15
+   :title:  Stuff
+   :type:   clone
+   :docs:
+   :path:   xperseguers@ /home /xperseguers /sphinx-src
+   :repo:
+   :clone:
+   :make:
+   :forge:
+   :who:    xperseguers
+   :remark:
+
+ - :line:   16
+   :title:  Flow application
+   :type:   tools
+   :docs:
+   :path:   docstypo3org@ /home /docstypo3org /releases /current
+   :repo:  `t3repo <https://git.typo3.org/Sites/DocsTypo3Org.git>`__
+   :clone:
+   :make:
+   :forge:
+   :who:    fudriot
+   :remark:
+
+
+
 
 **Next pages**
 

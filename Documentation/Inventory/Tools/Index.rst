@@ -19,6 +19,7 @@ Rendered: |today|
    CronRebuild/*
    GerritHook/*
    GithubHook/*
+   RenderDoc/*
    T3sphinx/*
    T3PythonDocBuilder/*
    ProjectIndex/*
