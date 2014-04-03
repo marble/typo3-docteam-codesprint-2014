@@ -72,8 +72,8 @@ Matrix of Doc Things
  - :line: 	5
    :title:  TYPO3 docs ter automation
    :type:   tools
-   :docs:   ref:`docs <inventory-render-doc>`
-   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/RENDER-DOC/`__
+   :docs:   :ref:`docs <inventory-render-doc>`
+   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/RENDER-DOC/>`__
    :repo:   `github <https://github.com/xperseguers/TYPO3.docs.ter-automation>`__
    :clone:  `clone <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.ter-automation/>`__
    :make:
@@ -85,7 +85,7 @@ Matrix of Doc Things
    :title:  TYPO3 docs rst primer
    :type:   docs
    :docs:   `docs <http://docs.typo3.org//typo3cms/drafts/github/xperseguers/RstPrimer/>`__
-   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/`__
+   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/>`__
    :repo:   `github <https://github.com/xperseguers/TYPO3.docs.rst-primer>`__
    :clone:  `clone <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/>`__
    :make:   `make <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git.make/>`__
@@ -152,7 +152,7 @@ Matrix of Doc Things
    :title:  RENDER-DOC
    :type:   tools
    :docs:   ref:`docs <inventory-render-doc>`
-   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/RENDER-DOC/`__
+   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/RENDER-DOC/>`__
    :repo:
    :clone:
    :make:
