@@ -60,6 +60,30 @@ Matrix of Doc Things
    :who:    marble
    
  - :line: 	4
+   :title:  Gerrit Hook
+   :type:   application
+   :docs:
+   :path:
+   :repo:
+   :clone:
+   :make:
+   :forge:
+   :who:    marble
+   :remark:
+
+ - :line: 	5
+   :title:  Github Hook
+   :type:   application
+   :docs:
+   :path:
+   :repo:
+   :clone:
+   :make:
+   :forge:
+   :who:    marble
+   :remark:
+
+ - :line: 	6
    :title:  Manage Github Repositories
    :type:   tools
    :docs:   `docs <http://docs.typo3.org/typo3cms/drafts/github/marble/ManageGithubRepositories/>`__
@@ -68,8 +92,7 @@ Matrix of Doc Things
    :make:   `make <http://docs.typo3.org/~mbless/github.com/marble/typo3-manage-github-repositories.git.make/>`__
    :who:    marble
 
-
- - :line: 	5
+ - :line: 	7
    :title:  TYPO3 docs ter automation
    :type:   tools
    :docs:   :ref:`docs <inventory-render-doc>`
@@ -81,7 +104,7 @@ Matrix of Doc Things
    :who:    xperseguers
    :remark:
 
- - :line: 	6
+ - :line: 	8
    :title:  TYPO3 docs rst primer
    :type:   docs
    :docs:   `docs <http://docs.typo3.org//typo3cms/drafts/github/xperseguers/RstPrimer/>`__
@@ -93,7 +116,7 @@ Matrix of Doc Things
    :who:    xperseguers
    :remark:
 
- - :line: 	7
+ - :line: 	9
    :title:  RestTools.git
    :type:   tools
    :docs:
@@ -105,12 +128,12 @@ Matrix of Doc Things
    :who:    team
    :remark:
 
- - :line: 	8
+ - :line: 	10
    :title:  ApiTypo3Org.git
    :type:   ?
    :repo:   `t3repo <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
 
- - :line: 	9
+ - :line: 	11
    :title:  Get The Docs
    :type:   tools
    :docs:
@@ -122,7 +145,7 @@ Matrix of Doc Things
    :who:    fudriot
    :remark:
 
- - :line: 	10
+ - :line: 	12
    :title:	restdoc
    :type:   extension
    :docs:   `docs <docs.typo3.org/typo3cms/extensions/restdoc/>`__
@@ -130,7 +153,7 @@ Matrix of Doc Things
    :forge:  `forge <http://forge.typo3.org/projects/extension-restdoc>`__
    :repo:   `t3repo <https://git.typo3.org/TYPO3CMS/Extensions/restdoc.git>`__
 
- - :line: 	11
+ - :line: 	13
    :title:	sphinx
    :type:   extension
    :docs:   `docs <docs.typo3.org/typo3cms/extensions/sphinx/>`__
@@ -138,7 +161,7 @@ Matrix of Doc Things
    :forge:  `forge <http://forge.typo3.org/projects/extension-sphinx>`__
    :repo:   `t3repo <https://git.typo3.org/TYPO3CMS/Extensions/sphinx.git>`__
 
- - :line: 	12
+ - :line: 	14
    :title:  t3sphinx - Python package for Sphinx
    :type:   tools
    :docs:
@@ -148,7 +171,7 @@ Matrix of Doc Things
    :remark: upcoming new
    :who:    marble
 
- - :line: 	13
+ - :line: 	15
    :title:  RENDER-DOC
    :type:   tools
    :docs:   :ref:`docs <inventory-render-doc>`
@@ -161,7 +184,7 @@ Matrix of Doc Things
    :remark:
 
 
- - :line: 	14
+ - :line: 	16
    :title:  `GetTheDocs <http://docs.typo3.org/getthedocs/>`__
    :type:   application
    :docs:
@@ -173,7 +196,7 @@ Matrix of Doc Things
    :who:    fudriot
    :remark:
 
- - :line: 	15
+ - :line: 	17
    :title:  Stuff
    :type:   clone
    :docs:
@@ -185,7 +208,7 @@ Matrix of Doc Things
    :who:    xperseguers
    :remark:
 
- - :line:   16
+ - :line:   18
    :title:  Flow application
    :type:   tools
    :docs:
