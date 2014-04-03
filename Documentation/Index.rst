@@ -29,6 +29,7 @@ Material's Matrix
    :repo:   repo
    :clone:  clone
    :make:   make
+   :forge:  forge
    :who:    who
    :remark: remark
    
@@ -41,7 +42,7 @@ Material's Matrix
    :docs:   `docs   <http://docs.typo3.org/typo3cms/drafts/github/marble/DocTeamCodesprint2014/>`__
    :repo:   `github <https://github.com/marble/typo3-docteam-codesprint-2014>`__
    :clone:  `clone  <http://docs.typo3.org/~mbless/github.com/marble/typo3-docteam-codesprint-2014.git/>`__
-   :make:   `_make  <http://docs.typo3.org/~mbless/github.com/marble/typo3-docteam-codesprint-2014.git.make/>`__
+   :make:   `make  <http://docs.typo3.org/~mbless/github.com/marble/typo3-docteam-codesprint-2014.git.make/>`__
    :who:    marble
 
  - :title:  The resources of docs.typo3.org
@@ -49,7 +50,7 @@ Material's Matrix
    :docs:   `docs   <http://docs.typo3.org/typo3cms/drafts/github/marble/TheResourcesOfDocsTypo3Org/>`__
    :repo:   `github <https://github.com/marble/typo3-docs-typo3-org-resources>`__
    :clone:  `clone  <http://docs.typo3.org/~mbless/github.com/marble/typo3-docs-typo3-org-resources.git/>`__
-   :make:   `_make  <http://docs.typo3.org/~mbless/github.com/marble/typo3-docs-typo3-org-resources.git.make/>`__
+   :make:   `make  <http://docs.typo3.org/~mbless/github.com/marble/typo3-docs-typo3-org-resources.git.make/>`__
    :who:    marble
    
  - :title:  t3sphinx - Python package for Sphinx
@@ -66,32 +67,45 @@ Material's Matrix
    :docs:   `docs <http://docs.typo3.org/typo3cms/drafts/github/marble/ManageGithubRepositories/>`__
    :repo:   `github <https://github.com/marble/typo3-manage-github-repositories>`__
    :clone:  `clone <http://docs.typo3.org/~mbless/github.com/marble/typo3-manage-github-repositories.git/>`__
-   :make:   `_make <http://docs.typo3.org/~mbless/github.com/marble/typo3-manage-github-repositories.git.make/>`__
+   :make:   `make <http://docs.typo3.org/~mbless/github.com/marble/typo3-manage-github-repositories.git.make/>`__
    :who:    marble
 
 
  - :title:  TYPO3 docs ter automation
    :who:    xperseguers
    :type:   tools
-   :repo:   `Github <https://github.com/xperseguers/TYPO3.docs.ter-automation>`__
+   :repo:   `github <https://github.com/xperseguers/TYPO3.docs.ter-automation>`__
 
  - :title:  TYPO3 docs rst primer
    :who:    xperseguers
-   :repo:   `Github <https://github.com/xperseguers/TYPO3.docs.rst-primer>`__
+   :repo:   `github <https://github.com/xperseguers/TYPO3.docs.rst-primer>`__
 
  - :title:  RestTools.git
    :type:   tools
-   :repo:   `git.typo3.org <https://git.typo3.org/Documentation/RestTools.git>`__
+   :repo:   `t3repo <https://git.typo3.org/Documentation/RestTools.git>`__
 
  - :title:  ApiTypo3Org.git
    :type:   tools - ?
-   :repo:   `git.typo3.org <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
+   :repo:   `t3repo <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
 
  - :title:  Get The Docs
    :type:   tools
    :who:    fudriot
-   :repo:   `git.typo3.org <https://git.typo3.org/Documentation/GetTheDocs.git>`__
+   :repo:   `t3repo <https://git.typo3.org/Documentation/GetTheDocs.git>`__
 
+ - :title:	restdoc
+   :type:   extension
+   :docs:   `docs <docs.typo3.org/typo3cms/extensions/restdoc/>`__
+   :who:    xperseguers
+   :forge:  `forge <http://forge.typo3.org/projects/extension-restdoc>`__
+   :repo:   `t3repo <https://git.typo3.org/TYPO3CMS/Extensions/restdoc.git>`__
+
+ - :title:	sphinx
+   :type:   extension
+   :docs:   `docs <docs.typo3.org/typo3cms/extensions/sphinx/>`__
+   :who:    xperseguers
+   :forge:  `forge <http://forge.typo3.org/projects/extension-sphinx>`__
+   :repo:   `t3repo <https://git.typo3.org/TYPO3CMS/Extensions/sphinx.git>`__
 
 **Next pages**
 
