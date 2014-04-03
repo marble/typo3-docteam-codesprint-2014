@@ -151,7 +151,7 @@ Matrix of Doc Things
  - :line: 	13
    :title:  RENDER-DOC
    :type:   tools
-   :docs:   ref:`docs <inventory-render-doc>`
+   :docs:   :ref:`docs <inventory-render-doc>`
    :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/RENDER-DOC/>`__
    :repo:
    :clone:
