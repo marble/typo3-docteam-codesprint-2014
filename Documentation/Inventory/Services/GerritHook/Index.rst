@@ -23,10 +23,11 @@ corresponding project ist done.
 
 ::
 
-   /home/mbless/HTDOCS/github.com/marble/typo3-docs-typo3-org-resources.git/webroot/php
+   Web address:
+      http://docs.typo3.org/php/php
 
    Installed at:
-      BASE=/home/mbless/public_html/php
+      BASE=/home/mbless/public_html/php/git-typo3-org-change-merged.php
 
    which is a symlink to:
       /home/mbless/HTDOCS/github.com/marble/typo3-docs-typo3-org-resources.git/webroot/php
@@ -35,10 +36,10 @@ corresponding project ist done.
       http://docs.typo3.org/~mbless/HTDOCS/github.com/marble/typo3-docs-typo3-org-resources.git/webroot/php/
 
    Script
-      SCRIPT=$BASE/git-typo3-org-change-merged
+      SCRIPT=$BASE/git-typo3-org-change-merged.php
 
    The script itself contains an array which lists known projects (bad, I know!)
-      Script needs to be modified for a new documentationen projects.
+      The script needs to be modified for a new documentation project.
 
    The script logs to:
       $BASE/zzzlog-1.txt

@@ -17,7 +17,13 @@ Rendered: |today|
 Github Hook
 ===========
 
+Description
+-----------
+
 ::
+
+   Web address:
+      http://docs.typo3.org/services/handle_github_post_receive_hook.php
 
    Installed at:
       BASE=/home/mbless/public_html/services
@@ -43,9 +49,16 @@ Github Hook
 ..
 View:
 
-- `$BASE/known-github-manuals.txt <http://docs.typo3.org/services/known-github-manuals.txt>`__
-- `$BASE/temp.txt <http://docs.typo3.org/services/temp.txt>`__
-- `$BASE/log-of-notifications.archive.001.txt <http://docs.typo3.org/services/log-of-notifications.archive.001.txt>`__
 
-Not needed any more: Stuff in ``$BASE/ter/``. That folder can be deleted.
+- `BASE/handle_github_post_receive_hook.php <http://docs.typo3.org/services/handle_github_post_receive_hook.php>`__
+- `BASE/known-github-manuals.txt <http://docs.typo3.org/services/known-github-manuals.txt>`__
+- `BASE/temp.txt <http://docs.typo3.org/services/temp.txt>`__
+- `BASE/log-of-notifications.archive.001.txt <http://docs.typo3.org/services/log-of-notifications.archive.001.txt>`__
+
+The stuff at ``$BASE/ter/`` isn't needed any more and can be deleted.
+
+How to activate hook processing
+-------------------------------
+
+Please read this `QuickStart Howto <http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationStarter/Quickstart/Index.html`__.
 
