@@ -37,8 +37,8 @@ Generate html for PDF button
    Example:
       http://docs.typo3.org/php/pdfchoices.php?url=http://docs.typo3.org/typo3cms/TyposcriptReference/
 
-
 ..
+
 Example:
 
 - `Find PDF of the TSREF <http://docs.typo3.org/php/pdfchoices.php?url=http://docs.typo3.org/typo3cms/TyposcriptReference/>`__

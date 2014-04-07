@@ -196,7 +196,6 @@ Matrix of DocThings
    :forge:  `forge <http://forge.typo3.org/projects/get-the-docs>`__
    :who:    fudriot
    :remark:
-   :clone:
 
 
  - :line:   18
