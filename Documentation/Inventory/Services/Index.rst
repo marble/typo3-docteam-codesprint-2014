@@ -16,17 +16,14 @@ Rendered: |today|
 - ninja rest editor rsted
 - typo3cms/extensions/ Javascript extension finder
 - project specific Sphinx search
-- version switcher
-- pdf finder
-
-
-
 
 .. toctree::
    :maxdepth: 5
    :glob:
    :titlesonly:
 
+   AjaxPdfChoices/*
+   AjaxVersionChoices/*
    GerritHook/*
-   GetTheDocs/*
    GithubHook/*
+   GetTheDocs/*
