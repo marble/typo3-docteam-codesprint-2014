@@ -57,6 +57,18 @@ Matrix of DocThings
    :who:    marble
    
  - :line:   4
+   :title:  `Extension key search autocompletion <http://docs.typo3.org/typo3cms/extensions/`__
+   :type:   javascript
+   :docs:   :ref:`docs <ext-key-search-autocompletion>`
+   :path:
+   :repo:
+   :clone:
+   :make:
+   :forge:
+   :who:    fsuter
+   :remark:
+
+ - :line:   5
    :title:  Generate html for PDF button
    :type:   ajax service
    :docs:   :ref:`docs <ajax-pdf-choices>`
@@ -68,7 +80,7 @@ Matrix of DocThings
    :who:    marble
    :remark:
 
- - :line:   5
+ - :line:   6
    :title:  Generate html for VERSION switcher
    :type:   ajax service
    :docs:   :ref:`docs <ajax-version-choices>`
@@ -80,7 +92,7 @@ Matrix of DocThings
    :who:    marble
    :remark:
 
- - :line:   6
+ - :line:   7
    :title:  Gerrit Hook
    :type:   service
    :docs:   :ref:`docs <gerrit-hook>`
@@ -92,7 +104,7 @@ Matrix of DocThings
    :who:    marble
    :remark:
 
- - :line:   7
+ - :line:   8
    :title:  Github Hook
    :type:   service
    :docs:   :ref:`docs <github-hook>`
@@ -104,7 +116,7 @@ Matrix of DocThings
    :who:    marble
    :remark:
 
- - :line:   8
+ - :line:   9
    :title:  RestTools.git
    :type:   tools
    :docs:   :ref:`docs <resttools-git>`
@@ -115,7 +127,6 @@ Matrix of DocThings
    :forge:  `forge <http://forge.typo3.org/projects/tools-rest>`__
    :who:    team
    :remark:
-
 
  - :line:   10
    :title:  TYPO3 docs ter automation
@@ -130,49 +141,6 @@ Matrix of DocThings
    :remark:
 
  - :line:   11
-   :title:  TYPO3 docs rst primer
-   :type:   docs
-   :docs:   `docs <http://docs.typo3.org//typo3cms/drafts/github/xperseguers/RstPrimer/>`__
-   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/>`__
-   :repo:   `github <https://github.com/xperseguers/TYPO3.docs.rst-primer>`__
-   :clone:  `clone <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/>`__
-   :make:   `make <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git.make/>`__
-   :forge:
-   :who:    xperseguers
-   :remark:
-
- - :line:   12
-   :title:  ApiTypo3Org.git
-   :type:   ?
-   :repo:   `t3repo <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
-
- - :line:   13
-   :title:  restdoc
-   :type:   extension
-   :docs:   `docs <docs.typo3.org/typo3cms/extensions/restdoc/>`__
-   :who:    xperseguers
-   :forge:  `forge <http://forge.typo3.org/projects/extension-restdoc>`__
-   :repo:   `t3repo <https://git.typo3.org/TYPO3CMS/Extensions/restdoc.git>`__
-
- - :line:   14
-   :title:  sphinx
-   :type:   extension
-   :docs:   `docs <docs.typo3.org/typo3cms/extensions/sphinx/>`__
-   :who:    xperseguers
-   :forge:  `forge <http://forge.typo3.org/projects/extension-sphinx>`__
-   :repo:   `t3repo <https://git.typo3.org/TYPO3CMS/Extensions/sphinx.git>`__
-
- - :line:   15
-   :title:  t3sphinx - Python package for Sphinx
-   :type:   tools
-   :docs:
-   :repo:   `github <https://github.com/marble/typo3-resttools-t3sphinx>`__
-   :clone:
-   :make:
-   :remark: upcoming new
-   :who:    marble
-
- - :line:   16
    :title:  RENDER-DOC
    :type:   tools
    :docs:   :ref:`docs <inventory-render-doc>`
@@ -184,8 +152,34 @@ Matrix of DocThings
    :who:    xperseguers
    :remark:
 
+ - :line:   12
+   :title:  restdoc
+   :type:   extension
+   :docs:   `docs <docs.typo3.org/typo3cms/extensions/restdoc/>`__
+   :who:    xperseguers
+   :forge:  `forge <http://forge.typo3.org/projects/extension-restdoc>`__
+   :repo:   `t3repo <https://git.typo3.org/TYPO3CMS/Extensions/restdoc.git>`__
 
- - :line:   17
+ - :line:   13
+   :title:  sphinx
+   :type:   extension
+   :docs:   `docs <docs.typo3.org/typo3cms/extensions/sphinx/>`__
+   :who:    xperseguers
+   :forge:  `forge <http://forge.typo3.org/projects/extension-sphinx>`__
+   :repo:   `t3repo <https://git.typo3.org/TYPO3CMS/Extensions/sphinx.git>`__
+
+ - :line:   14
+   :title:  t3sphinx - Python package for Sphinx
+   :type:   tools
+   :docs:
+   :repo:   `github <https://github.com/marble/typo3-resttools-t3sphinx>`__
+   :clone:
+   :make:
+   :remark: upcoming new!
+   :who:    marble
+
+
+ - :line:   15
    :title:  `GetTheDocs <http://docs.typo3.org/getthedocs/>`__
    :type:   service
    :docs:   :ref:`get-the-docs`
@@ -198,7 +192,7 @@ Matrix of DocThings
    :remark:
 
 
- - :line:   18
+ - :line:   16
    :title:  Stuff
    :type:   clone
    :docs:
@@ -210,7 +204,7 @@ Matrix of DocThings
    :who:    xperseguers
    :remark:
 
- - :line:   19
+ - :line:   17
    :title:  Flow application
    :type:   tools
    :docs:
@@ -223,7 +217,7 @@ Matrix of DocThings
    :remark:
 
 
- - :line:   20
+ - :line:   18
    :title:  Manage Github Repositories
    :type:   tools
    :docs:   `docs <http://docs.typo3.org/typo3cms/drafts/github/marble/ManageGithubRepositories/>`__
@@ -232,20 +226,23 @@ Matrix of DocThings
    :make:   `make <http://docs.typo3.org/~mbless/github.com/marble/typo3-manage-github-repositories.git.make/>`__
    :who:    marble
 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+ - :line:   19
+   :title:  TYPO3 docs rst primer
+   :type:   docs
+   :docs:   `docs <http://docs.typo3.org//typo3cms/drafts/github/xperseguers/RstPrimer/>`__
+   :path:   `path <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/>`__
+   :repo:   `github <https://github.com/xperseguers/TYPO3.docs.rst-primer>`__
+   :clone:  `clone <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git/>`__
+   :make:   `make <http://docs.typo3.org/~mbless/github.com/xperseguers/TYPO3.docs.rst-primer.git.make/>`__
+   :forge:
+   :who:    xperseguers
+   :remark:
+
+ - :line:   20
+   :title:  ApiTypo3Org.git
+   :type:   ?
+   :repo:   `t3repo <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
+
 
 
 **Next pages**

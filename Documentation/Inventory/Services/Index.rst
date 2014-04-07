@@ -5,17 +5,12 @@
 Services
 ==================================================
 
-Rendered: |today|
 
-**Jump up and down on this page:**
+To be described:
 
-.. contents::
-   :local:
-
-- build the docs
 - ninja rest editor rsted
-- typo3cms/extensions/ Javascript extension finder
 - project specific Sphinx search
+
 
 .. toctree::
    :maxdepth: 5
@@ -24,6 +19,7 @@ Rendered: |today|
 
    AjaxPdfChoices/*
    AjaxVersionChoices/*
+   ExtKeySearch/*
    GerritHook/*
    GithubHook/*
    GetTheDocs/*
