@@ -49,9 +49,8 @@ corresponding project ist done.
 ..
 View:
 
-- `$BASE/zzzlog-1.txt <http://docs.typo3.org/php/zzzlog-1.txt>`__
-- `$BASE/zzzlog-2.txt <http://docs.typo3.org/php/zzzlog-2.txt>`__
-- `$BASE/zzzlog-3.txt <http://docs.typo3.org/php/zzzlog-3.txt>`__
+- `BASE/zzzlog-1.txt <http://docs.typo3.org/php/zzzlog-1.txt>`__
+- `BASE/zzzlog-2.txt <http://docs.typo3.org/php/zzzlog-2.txt>`__
+- `BASE/zzzlog-3.txt <http://docs.typo3.org/php/zzzlog-3.txt>`__
 
-...
 

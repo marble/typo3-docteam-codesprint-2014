@@ -7,9 +7,17 @@ GetTheDocs
 
 Rendered: |today|
 
-**Jump up and down on this page:**
+.. _get-the-docs:
 
-.. contents::
-   :local:
+GetTheDocs
+==========
 
-...
+A web service to:
+
+- upload a documentation project and download a rendered version
+- upload an OpenOffice document and download a ReST or Sphinx project
+
+See the service: http://docs.typo3.org/getthedocs/
+
+
+

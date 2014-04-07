@@ -42,3 +42,5 @@ Generate html for VERSION switcher
 Example:
 
 - `Find available versions of the TSREF <http://docs.typo3.org/php/versionchoices.php?url=http://docs.typo3.org/typo3cms/TyposcriptReference/>`__
+- `Find available versions of EXT:sphinx <http://docs.typo3.org/php/versionchoices.php?url=http://docs.typo3.org/typo3cms/extensions/sphinx/>`__
+

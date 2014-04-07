@@ -18,6 +18,7 @@ Rendered: |today|
 
    CronRebuild/*
    RenderDoc/*
+   RestTools/*
    T3sphinx/*
    T3PythonDocBuilder/*
    ProjectIndex/*

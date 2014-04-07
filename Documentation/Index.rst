@@ -104,23 +104,11 @@ Matrix of DocThings
    :who:    marble
    :remark:
 
- - :line:   8
-   :title:  Get The Docs
-   :type:   service
-   :docs:
-   :path:
-   :repo:   `t3repo <https://git.typo3.org/Documentation/GetTheDocs.git>`__
-   :clone:  `clone <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/RestTools.git/>`__
-   :make:
-   :forge:  `forge <http://forge.typo3.org/projects/tools-rest>`__
-   :who:    fudriot
-   :remark:
 
-   
- - :line:   9
+ - :line:   8
    :title:  RestTools.git
    :type:   tools
-   :docs:
+   :docs:   :ref:`docs <resttools-git>`
    :path:
    :repo:   `t3repo <https://git.typo3.org/Documentation/RestTools.git>`__
    :clone:  `clone <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/RestTools.git/>`__
@@ -129,7 +117,6 @@ Matrix of DocThings
    :who:    team
    :remark:
 
-   
    
  - :line:   10
    :title:  TYPO3 docs ter automation
@@ -207,8 +194,8 @@ Matrix of DocThings
 
  - :line:   17
    :title:  `GetTheDocs <http://docs.typo3.org/getthedocs/>`__
-   :type:   application
-   :docs:
+   :type:   service
+   :docs:   :ref:`get-the-docs`
    :path:   render@ /home /render
    :repo:   `t3repo <https://git.typo3.org/Documentation/GetTheDocs.git>`__
    :clone:
@@ -216,6 +203,8 @@ Matrix of DocThings
    :forge:  `forge <http://forge.typo3.org/projects/get-the-docs>`__
    :who:    fudriot
    :remark:
+   :clone:
+
 
  - :line:   18
    :title:  Stuff
