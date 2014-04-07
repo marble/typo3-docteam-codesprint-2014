@@ -104,7 +104,6 @@ Matrix of DocThings
    :who:    marble
    :remark:
 
-
  - :line:   8
    :title:  RestTools.git
    :type:   tools
@@ -117,7 +116,7 @@ Matrix of DocThings
    :who:    team
    :remark:
 
-   
+
  - :line:   10
    :title:  TYPO3 docs ter automation
    :type:   tools
@@ -129,12 +128,6 @@ Matrix of DocThings
    :forge:
    :who:    xperseguers
    :remark:
-
-
-
-
-
-
 
  - :line:   11
    :title:  TYPO3 docs rst primer
@@ -231,8 +224,6 @@ Matrix of DocThings
    :remark:
 
 
-   
-   
  - :line:   20
    :title:  Manage Github Repositories
    :type:   tools
