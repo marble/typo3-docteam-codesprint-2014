@@ -8,20 +8,17 @@
 DocTeam Codesprint 2014
 ================================
 
-:Author:          Martin Bless
-:Buildinfo:       `Make folder <_make>`_
+:Editor:          Martin Bless
 :Email:           martin.bless@typo3.org
 :Rendered:        |today|
 
 :ref:`Sitemap <sitemap>`
 
 
+Matrix of DocThings
+===================
 
-
-Matrix of Doc Things
-====================
-
-.. t3-field-list-table:: Matrix of Doc Things
+.. t3-field-list-table:: Matrix of DocThings
  :header-rows: 1
 
  - :line: 	line
@@ -61,7 +58,7 @@ Matrix of Doc Things
    
  - :line: 	4
    :title:  Gerrit Hook
-   :type:   application
+   :type:   service
    :docs:
    :path:
    :repo:
@@ -73,8 +70,8 @@ Matrix of Doc Things
 
  - :line: 	5
    :title:  Github Hook
-   :type:   application
-   :docs:
+   :type:   service
+   :docs:   :ref:`docs <github-hook>`
    :path:
    :repo:
    :clone:
@@ -232,5 +229,4 @@ Matrix of Doc Things
    
    Inventory/*
    *
-
 

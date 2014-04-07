@@ -27,4 +27,6 @@ Rendered: |today|
    :glob:
    :titlesonly:
 
+   GerritHook/*
    GetTheDocs/*
+   GithubHook/*
