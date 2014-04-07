@@ -244,7 +244,9 @@ Matrix of DocThings
    :repo:   `t3repo <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
 
  - :line:   line
-   :title:  Online ReStructuredText Editor `at TYPO3 <http://docs.typo3.org:5000>`__,`at Ninjs <http://rst.ninjs.org/>`__
+   :title:  Online ReStructuredText Editor
+            `at TYPO3 <http://docs.typo3.org:5000>`__,
+            `at Ninjs <http://rst.ninjs.org/>`__
    :type:   service
    :docs:   :ref:`docs <rst-ninjs-org>`
    :path:   `path <file:///home/mbless/rst-ninjs-org/rsted>`__
