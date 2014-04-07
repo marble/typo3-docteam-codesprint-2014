@@ -243,6 +243,19 @@ Matrix of DocThings
    :type:   ?
    :repo:   `t3repo <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
 
+ - :line:   line
+   :title:  `Online ReStructuredText Editor <http://rst.ninjs.org/>`__
+   :type:   service
+   :docs:   :ref:`rst-ninjs-org`
+   :path:   `path </home/mbless/rst-ninjs-org/rsted>`__
+   :repo:   `github <https://github.com/anru/rsted>`__
+   :clone:
+   :make:
+   :forge:
+   :who:    `Andrey Rublev, Novosibirsk, Russia <https://github.com/anru>`__
+   :remark:
+
+
 
 
 **Next pages**

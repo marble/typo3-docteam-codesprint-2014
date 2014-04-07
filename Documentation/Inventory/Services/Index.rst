@@ -23,3 +23,4 @@ To be described:
    GerritHook/*
    GithubHook/*
    GetTheDocs/*
+   Rsted/*
