@@ -57,7 +57,7 @@ Matrix of DocThings
    :who:    marble
    
  - :line:   4
-   :title:  `Extension key search autocompletion <http://docs.typo3.org/typo3cms/extensions/`__
+   :title:  `Extension key search autocompletion <http://docs.typo3.org/typo3cms/extensions/>`__
    :type:   javascript
    :docs:   :ref:`docs <ext-key-search-autocompletion>`
    :path:
