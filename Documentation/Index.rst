@@ -243,7 +243,7 @@ Matrix of DocThings
    :type:   ?
    :repo:   `t3repo <https://git.typo3.org/Documentation/ApiTypo3Org.git>`__
 
- - :line:   line
+ - :line:   21
    :title:  Online ReStructuredText Editor
             `at TYPO3 <http://docs.typo3.org:5000>`__,
             `at Ninjs <http://rst.ninjs.org/>`__
@@ -257,6 +257,17 @@ Matrix of DocThings
    :who:    `Andrey Rublev, Novosibirsk, Russia <https://github.com/anru>`__
    :remark:
 
+ - :line:   22
+   :title:  Intersphinx linking to `the TYPO3 api <http://api.typo3.org/>`__
+   :type:
+   :docs:
+   :path:
+   :repo:
+   :clone:
+   :make:
+   :forge:
+   :who:    xperseguers
+   :remark:
 
 
 
