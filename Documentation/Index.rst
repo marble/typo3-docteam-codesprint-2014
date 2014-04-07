@@ -83,7 +83,7 @@ Matrix of DocThings
  - :line:   6
    :title:  Gerrit Hook
    :type:   service
-   :docs:   :ref:`docs <github-hook>`
+   :docs:   :ref:`docs <gerrit-hook>`
    :path:
    :repo:
    :clone:
