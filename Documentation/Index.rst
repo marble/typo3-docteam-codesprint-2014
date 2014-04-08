@@ -277,8 +277,7 @@ Matrix of DocThings
    :maxdepth: 5
    :glob:
    :titlesonly:
-   :numbered:
-   
+
    Inventory/*
    *
 
