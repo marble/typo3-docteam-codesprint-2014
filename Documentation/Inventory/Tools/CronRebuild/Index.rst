@@ -1,4 +1,3 @@
-
 .. include:: ../../../Includes.txt
 
 ==================================================
@@ -127,6 +126,8 @@ Definitions in ``cron_rebuild.conf``
       Example:
          1 | 0 | <missing>
       Whether a package is to be created.
+      
+      Set this to 1 for TYPO3 extensions and to 0 in all other cases.
 
    PACKAGE_KEY
       Example:
