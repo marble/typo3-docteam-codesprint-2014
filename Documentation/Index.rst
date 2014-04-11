@@ -269,6 +269,18 @@ Matrix of DocThings
    :who:    xperseguers
    :remark:
 
+ - :line:   23
+   :title:  Glue pages on docs.typo3.org
+   :type:   docs
+   :docs:   
+   :path:   
+   :repo:   `github <https://github.com/anru/rsted>`__
+   :clone:  `clone <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/>`__
+   :make:   `make <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git.make/>`__
+   :forge:
+   :who:    docteam
+   :remark:
+
 
 
 **Next pages**
