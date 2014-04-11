@@ -274,7 +274,7 @@ Matrix of DocThings
    :type:   docs
    :docs:   
    :path:   
-   :repo:   `github <https://github.com/anru/rsted>`__
+   :repo:   `github <https://github.com/marble/typo3-docstypo3org-glue-pages>`__
    :clone:  `clone <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/>`__
    :make:   `make <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git.make/>`__
    :forge:
