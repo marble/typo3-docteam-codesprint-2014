@@ -281,6 +281,42 @@ Matrix of DocThings
    :who:    docteam
    :remark:
 
+ - :line:   24
+   :title:  Bootstrap theme for TYPO3 sphinx documentation
+   :type:   tools
+   :docs:   
+   :path:   
+   :repo:   `github <https://github.com/marble/sphinx-bootstrap-theme>`__
+   :clone:  
+   :make:   
+   :forge:
+   :who:    
+   :remark:
+
+ - :line:   25
+   :title:  Vagrant box for docs typo3 org
+   :type:   tools
+   :docs:   
+   :path:   
+   :repo:   `t3repo <https://git.typo3.org/Teams/Server/Vagrant/DocsTypo3Org.git>`__
+   :clone:  
+   :make:   
+   :forge:
+   :who:    
+   :remark:
+
+ - :line:   26
+   :title:  Flow Application that controls documentation rendering
+   :type:   tools
+   :docs:   `wiki <http://forge.typo3.org/projects/team-doc-rendering/wiki/>`__
+   :path:   
+   :repo:   `t3repo <https://git.typo3.org/Packages/TYPO3.Docs.git>`__
+   :clone:  
+   :make:   
+   :forge:
+   :who:    
+   :remark:
+
 
 
 **Next pages**
