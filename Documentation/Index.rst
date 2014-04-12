@@ -296,12 +296,12 @@ Matrix of DocThings
  - :line:   25
    :title:  Vagrant box for docs typo3 org
    :type:   tools
-   :docs:   
+   :docs:   `wiki <http://forge.typo3.org/projects/vagrant-docstypo3org/wiki>`__
    :path:   
    :repo:   `t3repo <https://git.typo3.org/Teams/Server/Vagrant/DocsTypo3Org.git>`__
    :clone:  
    :make:   
-   :forge:
+   :forge:  `forge <http://forge.typo3.org/projects/vagrant-docstypo3org>`__
    :who:    
    :remark:
 
@@ -316,6 +316,19 @@ Matrix of DocThings
    :forge:
    :who:    
    :remark:
+   
+ - :line:   27
+   :title:  Chef recipe to setup the documentation server
+   :type:   tools
+   :docs:   
+   :path:   
+   :repo:   `github <https://github.com/TYPO3-cookbooks/site-docstypo3org>`__
+   :clone:  
+   :make:   
+   :forge:
+   :who:    fudriot
+   :remark:
+   
 
 
 
