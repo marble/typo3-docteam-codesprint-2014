@@ -320,15 +320,27 @@ Matrix of DocThings
  - :line:   27
    :title:  Chef recipe to setup the documentation server
    :type:   tools
-   :docs:   
-   :path:   
+   :docs:
+   :path:
    :repo:   `github <https://github.com/TYPO3-cookbooks/site-docstypo3org>`__
-   :clone:  
-   :make:   
+   :clone:
+   :make:
    :forge:
    :who:    fudriot
    :remark:
-   
+
+ - :line:   28
+   :title:  docs.typo3.org on Neos
+   :type:   development
+   :docs:   `wiki <http://wiki.typo3.org/DocsTypo3OrgOnNeos>`__
+   :path:
+   :repo:   `github1 <https://github.com/dfeyer/TYPO3.DocsTypo3Org>`__, `github2 <https://github.com/dfeyer/TYPO3.DocsTypo3OrgDistribution>`__
+   :clone:
+   :make:
+   :forge:
+   :who:    dfeyer
+   :remark:
+
 
 
 
