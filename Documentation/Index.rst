@@ -272,7 +272,7 @@ Matrix of DocThings
  - :line:   23
    :title:  Glue pages on docs.typo3.org
    :type:   docs
-   :docs:   
+   :docs:   :ref:`docs <glue-pages>`
    :path:   
    :repo:   `github <https://github.com/marble/typo3-docstypo3org-glue-pages>`__
    :clone:  `clone <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/>`__

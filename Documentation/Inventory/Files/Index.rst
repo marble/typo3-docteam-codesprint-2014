@@ -59,15 +59,14 @@ the source site is replicated. See http://docs.typo3.org/~mbless/github.com/.
 This is the webroot folder of http://docs.typo3.org/.
 
 
+.. _glue-pages:
+
 The "Glue Pages"
 ----------------
 The "glue pages" contain the editorial content on docs.typo3.org.
 They are made up from just a normal Sphinx documentation project itself
 with carefully chosen filenames so that the fit in the "empty spots"
 between the normal manuals.
-
-.. attention:: Unfortunately the glue pages are not in a Git repository.
-   This should be changed!
 
 This is the `glue pages content <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Documentation/>`__::
 
