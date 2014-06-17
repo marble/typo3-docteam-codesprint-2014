@@ -172,10 +172,10 @@ Matrix of DocThings
    :title:  t3sphinx - Python package for Sphinx
    :type:   tools
    :docs:
-   :repo:   `github <https://github.com/marble/typo3-resttools-t3sphinx>`__
+   :repo:   `github <https://github.com/marble/typo3-ExtendingSphinxForTYPO3>`__
    :clone:
    :make:
-   :remark: upcoming new!
+   :remark: upcoming new! Should replace that part in RestTools.git
    :who:    marble
 
 
@@ -294,6 +294,18 @@ Matrix of DocThings
    :remark:
 
  - :line:   25
+   :title:  Vagrant box to set up a Debian Sphinx base system
+   :type:   tools
+   :docs:   `README <https://github.com/marble/Vagrant.SphinxBase>`__
+   :path:   
+   :repo:   `github <https://github.com/marble/Vagrant.SphinxBase>`__
+   :clone:  
+   :make:   
+   :forge:  
+   :who:    marble
+   :remark:
+
+ - :line:   26
    :title:  Vagrant box for docs typo3 org
    :type:   tools
    :docs:   `wiki <http://forge.typo3.org/projects/vagrant-docstypo3org/wiki>`__
@@ -305,7 +317,7 @@ Matrix of DocThings
    :who:    
    :remark:
 
- - :line:   26
+ - :line:   27
    :title:  Flow Application that controls documentation rendering
    :type:   tools
    :docs:   `wiki <http://forge.typo3.org/projects/team-doc-rendering/wiki/>`__
@@ -317,7 +329,7 @@ Matrix of DocThings
    :who:    
    :remark:
    
- - :line:   27
+ - :line:   28
    :title:  Chef recipe to setup the documentation server
    :type:   tools
    :docs:
@@ -329,7 +341,7 @@ Matrix of DocThings
    :who:    fudriot
    :remark:
 
- - :line:   28
+ - :line:   29
    :title:  docs.typo3.org on Neos
    :type:   development
    :docs:   `wiki <http://wiki.typo3.org/DocsTypo3OrgOnNeos>`__
@@ -340,7 +352,6 @@ Matrix of DocThings
    :forge:
    :who:    dfeyer
    :remark:
-
 
 
 
