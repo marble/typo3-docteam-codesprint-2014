@@ -353,6 +353,18 @@ Matrix of DocThings
    :who:    dfeyer
    :remark:
 
+ - :line:   30
+   :title:  Pygments syntax highlighter for TypoScript
+   :type:   tools
+   :docs:   
+   :path:
+   :repo:   `github <https://github.com/Tuurlijk/Pygments-TypoScript-Lexer>`__
+   :clone:
+   :make:
+   :forge:
+   :who:    `Michiel <https://github.com/Tuurlijk>`__
+   :remark: Contained in `RestTools <https://git.typo3.org/Documentation/RestTools.git/tree/HEAD:/ExtendingPygmentsForTYPO3>`__
+
 
 
 **Next pages**
